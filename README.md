@@ -1,2 +1,2 @@
 # my-first-app
-challenge #1 (MIR)
+challenge rails #1 (MIR)
